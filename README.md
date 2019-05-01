@@ -1,18 +1,18 @@
-# pwabuilder-android
+# pwabuilder-samsung
 
-## PWA Builder Android Platform
+## PWA Builder Samsung Platform
 
-Android platform module for [PWA Builder](https://github.com/manifoldjs/ManifoldJS), a tool for creating hosted web applications based on a [W3C Web App manifest](http://www.w3.org/TR/appmanifest/).
+Samsung Platform module for [PWA Builder](https://github.com/manifoldjs/ManifoldJS), a tool for creating hosted web applications based on a [W3C Web App manifest](http://www.w3.org/TR/appmanifest/).
 
 ## Installation
 
 ```
-npm install pwabuilder-android
+npm install pwabuilder-samsung
 ```
 In node.js:
 
 ```
-var platform = require('pwabuilder-android')
+var platform = require('pwabuilder-samsung')
 ```
 
 ## Documentation
@@ -20,7 +20,7 @@ To get started, visit our [wiki](https://github.com/manifoldjs/ManifoldJS/wiki).
 
 ## License
 
-> pwabuilder-android
+> pwabuilder-samsung
 
 > Copyright (c) Microsoft Corporation
 
