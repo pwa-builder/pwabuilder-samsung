@@ -1,6 +1,6 @@
 {
   "name": "pwabuilder-samsung",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "PWA Builder Samsung Platform",
   "repository": {
     "type": "git",
@@ -35,7 +35,7 @@
   "dependencies": {
     "google-protobuf": "^3.7.0-rc.2",
     "node-fetch": "^2.3.0",
-    "pwabuilder-lib": "^2.0.0-rc"
+    "pwabuilder-lib": "^2.0.4-RC.3"
   },
   "optionalDependencies": {},
   "devDependencies": {
