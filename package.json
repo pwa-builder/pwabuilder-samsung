@@ -36,7 +36,7 @@
     "google-protobuf": "^3.7.0-rc.2",
     "node-fetch": "^2.3.0",
     "nodeify": "^1.0.1",
-    "pwabuilder-lib": "^2.0.4-RC.3"
+    "pwabuilder-lib": "^2.0.4-RC.4"
   },
   "optionalDependencies": {},
   "devDependencies": {
